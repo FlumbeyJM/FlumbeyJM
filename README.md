@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Ich weiß nicht was ich schreiben soll deswegen schreibe ich einfach irgendwas.. YAY!
+
 <!--
 **FlumbeyJM/FlumbeyJM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
